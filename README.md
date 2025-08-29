@@ -1,5 +1,5 @@
 
-# ClimateScope Dashboard - Milestone 3
+# ClimateScope Dashboard 
 
 ## 🌍 Interactive Weather Analysis Dashboard
 
